@@ -1,0 +1,348 @@
+https://www.shiksha.com/b-tech/colleges/b-tech-colleges-mumbai-all
+<div class="clg-tpl-parent">
+<div class="clg-tpl" id="instituteContainer_46905">
+<section class="tuple-clg-name tpl-paid">
+<a class="tuple-clg-img" href="https://www.shiksha.com/university/amity-university-mumbai-46905?city=151&amp;locality=999&amp;fro=serp&amp;pn=1&amp;tn=1&amp;lti=46905&amp;ts=29554797&amp;ct=instituteImg" target="_blank"><img data-original="https://images.shiksha.com/mediadata/images/1500036103phpYSgUGT_135x100.png" src="https://images.shiksha.com/mediadata/images/1500036103phpYSgUGT_135x100.png" alt="Amity University, Mumbai" class="tuple-clg-img lazy" style="display: block;"></a>
+<noscript>
+<a  class="tuple-clg-img" href="https://www.shiksha.com/university/amity-university-mumbai-46905?city=151&locality=999&fro=serp&pn=1&tn=1&lti=46905&ts=29554797&ct=instituteImg" target="_blank"><img src="https://images.shiksha.com/mediadata/images/1500036103phpYSgUGT_135x100.png" class="tuple-clg-img"></a>
+</noscript>
+<a class="selfi__img" href="https://www.shiksha.com/university/amity-university-mumbai-46905?city=151&amp;locality=999&amp;fro=serp&amp;pn=1&amp;tn=1&amp;lti=46905&amp;ts=29554797&amp;ct=instituteGallery#gallery" target="_blank">7</a>
+<h2 class="tuple-clg-heading"><a class="tuple-institute-name" href="https://www.shiksha.com/university/amity-university-mumbai-46905?city=151&amp;locality=999&amp;fro=serp&amp;pn=1&amp;tn=1&amp;lti=46905&amp;ts=29554797&amp;ct=institute" target="_blank">Amity University, Mumbai                <span style="display: none;" class="srpHoverCntnt"><p>View college details, courses offered &amp; recommendations</p></span>
+</a>
+<p>| Panvel, Mumbai</p>
+</h2>
+<a href="https://www.shiksha.com/university/amity-university-mumbai-46905/admission" class="adms-det" ga-page="Category" ga-attr="PC_Tuple_Admission" ga-optlabel="Admission_Link" target="_blank">View admission details</a>
+<span class="adm-spn"> | </span>
+<ul class="facility-icons ">
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_moot_court">
+<div class="srpHoverCntnt2">
+<h3>Moot Court (Law)</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_design_studio">
+<div class="srpHoverCntnt2">
+<h3>Design Studio</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_library">
+<div class="srpHoverCntnt2">
+<h3>Library</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_food">
+<div class="srpHoverCntnt2">
+<h3>Cafeteria</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_room">
+<div class="srpHoverCntnt2">
+<h3>Hostel</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_play">
+<div class="srpHoverCntnt2">
+<h3>Sports Complex</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_gym">
+<div class="srpHoverCntnt2">
+<h3>Gym</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_medical">
+<div class="srpHoverCntnt2">
+<h3>Hospital / Medical Facilities</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_wifi">
+<div class="srpHoverCntnt2">
+<h3>Wi-Fi Campus</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_transport">
+<div class="srpHoverCntnt2">
+<h3>Shuttle Service</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_auditorium">
+<div class="srpHoverCntnt2">
+<h3>Auditorium</h3>
+<p></p>
+</div>
+</i>
+</li>
+</ul>
+</section>
+<section class="tpl-curse-dtls">
+<h5 class="tpl-course-name"><a class="tuple-course-name" target="_blank" href="https://www.shiksha.com/b-tech/course/b-tech-in-computer-science-and-engineering-amity-university-mumbai-panvel-231300?city=151&amp;locality=999&amp;fro=serp&amp;pn=1&amp;tn=1&amp;ct=course&amp;lti=231300&amp;ts=29554797">B.Tech. in Computer Science and Engineering      <span style="display: none;" class="srpHoverCntnt"><p>View course details, admission process &amp; insights</p></span>
+</a></h5>
+<div class="course-inf">UG Degree <i></i>Full Time<i></i>Duration - 4 years     
+</div>
+<div class="m-tab">
+<div class="tuple-alum-col">
+<p class="fee">Course Status</p>
+<strong class="inr">
+                Offered by Amity University, Mumbai   
+</strong>
+</div>
+<div class="tuple-fee-col">
+<p class="fee">Total Fees (INR)</p>
+<strong class="inr">
+            8.40 Lakh                         
+</strong>
+</div>
+<div class="tuple-exam-dtls">
+<p class="fee">Exams Required (Cut-off)</p>
+<strong class="inr">Amity JEE</strong>
+</div>
+</div>
+<div class="tuple-revw-sec">
+<span>
+<b>14</b>
+<a type="questions" target="_blank" href="https://www.shiksha.com/university/amity-university-mumbai-46905/questions?course=231300&amp;fro=serp&amp;pn=1&amp;tn=1&amp;ct=questions&amp;lti=231300&amp;ts=29554797">Questions on this course                                            <div style="display: none;" class="srpHoverCntnt"><p>Get answers from the students currently studying in this college</p></div>
+</a>
+</span>
+</div>
+<p class="clr"></p>
+<section class="tuple-bottom">
+<ul class="tupl-options">
+<li>
+<a style="position: relative;">
+<span style="display: none;left:0;top:22px;" class="srpHoverCntnt"><p>Compare colleges on ranking, placements, reviews, fees etc.</p></span>
+<div class="nav-checkBx">
+<input class="nav-inputChk" name="compare" id="compare46905-231300" tuplelistsource="categoryPage" type="checkbox">
+<label class="nav-heck compare-site-tour" product="Category" track="on" instid="46905" courseid="231300" id="compare46905-231300lableicon" comparetrackingpagekeykeyid="1039" tuplelistsource="categoryPage">
+<i class="icons ic_checkdisable1"></i>Add to Compare                    </label>
+</div>
+</a>
+</li>
+</ul>
+<input name="tupleListSource" id="tupleListSource" value="categoryPage" type="hidden">
+<input name="product" value="Category" id="product" type="hidden">
+<a href="javascript:void(0);" cta-type="download_brochure" onclick="ajaxDownloadEBrochure(this,231300,&quot;course&quot;,&quot;B.Tech. in Computer Science and Engineering&quot;,&quot;categoryPage&quot;,213)">
+<span class="tup-compare deb-site-tour" instid="46905" product="Category" track="on" courseid="231300">Download Brochure                                            <span style="display: none;top:41px;" class="srpHoverCntnt"><p>Download details of eligibility, admissions, fees, infra etc.</p></span>
+</span>
+</a>
+<a href="javascript:void(0);" class="category_shortlist" onclick="addShortlistFromSearch(231300,215,'Category')" id="shrt231300" instid="46905" product="Category" track="on" courseid="231300">
+<span class="tup-view-details shortlist-site-tour">
+     Shortlist              <span style="display: none;top:41px" class="srpHoverCntnt"><p>Save your shortlist, get updates, college recommendations etc.</p></span>
+</span>
+</a>
+<p class="success-msg" id="success-msg_231300" style="display:none;">Brochure successfully mailed</p>
+<p class="clr"></p>
+</section>
+</section>
+</div>
+<p class="clr"></p>
+<div class="outerframe" id="showMore_46905" instid="46905">
+<i class="frme1"></i>
+<i class="frme2"></i>
+<a href="javascript:void(0);">+ 13 More  courses</a>
+</div>
+<input id="remainingCourseIds_46905" value="231298,231294,231304,231306,231311,231313,231314,231315,231316,231319,231324,288003,288002" loadedcoursecount="0" autocomplete="off" type="hidden">
+</div>
+
+>>> tp[0]
+<div class="clg-tpl-parent">
+<div class="clg-tpl" id="instituteContainer_46905">
+<section class="tuple-clg-name tpl-paid">
+<a class="tuple-clg-img" href="https://www.shiksha.com/university/amity-university-mumbai-46905?city=151&amp;locality=999&amp;fro=serp&amp;pn=1&amp;tn=1&amp;lti=46905&amp;ts=29555687&amp;ct=instituteImg" target="_blank"><img alt="Amity University, Mumbai" class="tuple-clg-img lazy" data-original="https://images.shiksha.com/mediadata/images/1500036103phpYSgUGT_135x100.png" src="//images.shiksha.ws/public/images/cat_default_desktop.png"/></a>
+<noscript>
+<a class="tuple-clg-img" href="https://www.shiksha.com/university/amity-university-mumbai-46905?city=151&amp;locality=999&amp;fro=serp&amp;pn=1&amp;tn=1&amp;lti=46905&amp;ts=29555687&amp;ct=instituteImg" target="_blank"><img class="tuple-clg-img" src="https://images.shiksha.com/mediadata/images/1500036103phpYSgUGT_135x100.png"/></a>
+</noscript>
+<a class="selfi__img" href="https://www.shiksha.com/university/amity-university-mumbai-46905?city=151&amp;locality=999&amp;fro=serp&amp;pn=1&amp;tn=1&amp;lti=46905&amp;ts=29555687&amp;ct=instituteGallery#gallery" target="_blank">7</a>
+<h2 class="tuple-clg-heading"><a class="tuple-institute-name" href="https://www.shiksha.com/university/amity-university-mumbai-46905?city=151&amp;locality=999&amp;fro=serp&amp;pn=1&amp;tn=1&amp;lti=46905&amp;ts=29555687&amp;ct=institute" target="_blank">Amity University, Mumbai                <span class="srpHoverCntnt" style="display: none;"><p>View college details, courses offered &amp; recommendations</p></span>
+</a>
+</h2><p>| Panvel, Mumbai</p>
+<a class="adms-det" ga-attr="PC_Tuple_Admission" ga-optlabel="Admission_Link" ga-page="Category" href="https://www.shiksha.com/university/amity-university-mumbai-46905/admission" target="_blank">View admission details</a>
+<span class="adm-spn"> | </span>
+<ul class="facility-icons ">
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_moot_court">
+<div class="srpHoverCntnt2">
+<h3>Moot Court (Law)</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_design_studio">
+<div class="srpHoverCntnt2">
+<h3>Design Studio</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_library">
+<div class="srpHoverCntnt2">
+<h3>Library</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_food">
+<div class="srpHoverCntnt2">
+<h3>Cafeteria</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_room">
+<div class="srpHoverCntnt2">
+<h3>Hostel</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_play">
+<div class="srpHoverCntnt2">
+<h3>Sports Complex</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_gym">
+<div class="srpHoverCntnt2">
+<h3>Gym</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_medical">
+<div class="srpHoverCntnt2">
+<h3>Hospital / Medical Facilities</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_wifi">
+<div class="srpHoverCntnt2">
+<h3>Wi-Fi Campus</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_transport">
+<div class="srpHoverCntnt2">
+<h3>Shuttle Service</h3>
+<p></p>
+</div>
+</i>
+</li>
+<li class="emptyDesc">
+<i class="fc_icons ic_fac_auditorium">
+<div class="srpHoverCntnt2">
+<h3>Auditorium</h3>
+<p></p>
+</div>
+</i>
+</li>
+</ul>
+</section>
+<section class="tpl-curse-dtls">
+<h5 class="tpl-course-name"><a class="tuple-course-name" href="https://www.shiksha.com/b-tech/course/b-tech-in-computer-science-and-engineering-amity-university-mumbai-panvel-231300?city=151&amp;locality=999&amp;fro=serp&amp;pn=1&amp;tn=1&amp;ct=course&amp;lti=231300&amp;ts=29555687" target="_blank">B.Tech. in Computer Science and Engineering      <span class="srpHoverCntnt" style="display: none;"><p>View course details, admission process &amp; insights</p></span>
+</a></h5>
+<div class="course-inf">UG Degree <i></i>Full Time<i></i>Duration - 4 years
+</div>
+<div class="m-tab">
+<div class="tuple-alum-col">
+<p class="fee">Course Status</p>
+<strong class="inr">
+                Offered by Amity University, Mumbai
+</strong>
+</div>
+<div class="tuple-fee-col">
+<p class="fee">Total Fees (INR)</p>
+<strong class="inr">
+            8.40 Lakh
+</strong>
+</div>
+<div class="tuple-exam-dtls">
+<p class="fee">Exams Required (Cut-off)</p>
+<strong class="inr">Amity JEE</strong>
+</div>
+</div>
+<div class="tuple-revw-sec">
+<span>
+<b>14</b>
+<a href="https://www.shiksha.com/university/amity-university-mumbai-46905/questions?course=231300&amp;fro=serp&amp;pn=1&amp;tn=1&amp;ct=questions&amp;lti=231300&amp;ts=29555687" target="_blank" type="questions">Questions on this course                                            <div class="srpHoverCntnt" style="display: none;"><p>Get answers from the students currently studying in this college</p></div>
+</a>
+</span>
+</div>
+<p class="clr"></p>
+<section class="tuple-bottom">
+<ul class="tupl-options">
+<li>
+<a style="position: relative;">
+<span class="srpHoverCntnt" style="display: none;left:0;top:22px;"><p>Compare colleges on ranking, placements, reviews, fees etc.</p></span>
+<div class="nav-checkBx">
+<input class="nav-inputChk" id="compare46905-231300" name="compare" tuplelistsource="categoryPage" type="checkbox"/>
+<label class="nav-heck compare-site-tour" comparetrackingpagekeykeyid="1039" courseid="231300" id="compare46905-231300lableicon" instid="46905" product="Category" track="on" tuplelistsource="categoryPage">
+<i class="icons ic_checkdisable1"></i>Add to Compare                    </label>
+</div>
+</a>
+</li>
+</ul>
+<input id="tupleListSource" name="tupleListSource" type="hidden" value="categoryPage"/>
+<input id="product" name="product" type="hidden" value="Category"/>
+<a cta-type="download_brochure" href="javascript:void(0);" onclick='ajaxDownloadEBrochure(this,231300,"course","B.Tech. in Computer Science and Engineering","categoryPage",213)'>
+<span class="tup-compare deb-site-tour" courseid="231300" instid="46905" product="Category" track="on">Download Brochure                                            <span class="srpHoverCntnt" style="display: none;top:41px;"><p>Download details of eligibility, admissions, fees, infra etc.</p></span>
+</span>
+</a>
+<a class="category_shortlist" courseid="231300" href="javascript:void(0);" id="shrt231300" instid="46905" onclick="addShortlistFromSearch(231300,215,'Category')" product="Category" track="on">
+<span class="tup-view-details shortlist-site-tour">
+     Shortlist              <span class="srpHoverCntnt" style="display: none;top:41px"><p>Save your shortlist, get updates, college recommendations etc.</p></span>
+</span>
+</a>
+<p class="success-msg" id="success-msg_231300" style="display:none;">Brochure successfully mailed</p>
+<p class="clr"></p>
+</section>
+</section>
+</div>
+<p class="clr"></p>
+<div class="outerframe" id="showMore_46905" instid="46905">
+<i class="frme1"></i>
+<i class="frme2"></i>
+<a href="javascript:void(0);">+ 13 More  courses</a>
+</div>
+<input autocomplete="off" id="remainingCourseIds_46905" loadedcoursecount="0" type="hidden" value="231298,231294,231304,231306,231311,231313,231314,231315,231316,231319,231324,288003,288002"/>
+</div>

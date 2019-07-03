@@ -1,0 +1,83 @@
+<section class="tpl-curse-dtls more_46905_0" style="overflow: visible;">
+        
+<h5 class="tpl-course-name"><a class="tuple-course-name" target="_blank" href="https://www.shiksha.com/b-tech/course/b-tech-in-civil-engineering-amity-university-mumbai-panvel-231298?city=151&amp;locality=999&amp;fro=serp&amp;pn=1&amp;tn=1|1&amp;ct=course&amp;lti=231298&amp;ts=29909857">B.Tech. in Civil Engineering      <span style="display: none;" class="srpHoverCntnt"><p>View course details, admission process &amp; insights</p></span>
+          </a></h5>
+
+
+<div class="course-inf">UG Degree <i></i>Full Time<i></i>Duration - 4 years     <!--p>Popularity Score 78/100</p-->
+</div>
+
+<!--table sec-->
+<div class="m-tab">
+
+        
+            <div class="tuple-alum-col">
+                <p class="fee">Course Status</p>
+                <strong class="inr">
+                Offered by Amity University, Mumbai   
+                </strong>
+            </div>
+        
+        <div class="tuple-fee-col">
+            <p class="fee">Total Fees (INR)</p>
+            <strong class="inr">
+            8.40 Lakh                         
+             </strong>
+        </div>
+            
+                <div class="tuple-exam-dtls">
+            <p class="fee">Exams Required (Cut-off)</p>
+            <strong class="inr">Amity JEE</strong>
+            
+                    </div>
+
+    
+
+</div>
+    <div class="tuple-revw-sec">
+                    <span>
+                <b>1</b>
+                <a type="questions" target="_blank" href="https://www.shiksha.com/university/amity-university-mumbai-46905/questions?course=231298&amp;fro=serp&amp;pn=1&amp;tn=1|1&amp;ct=questions&amp;lti=231298&amp;ts=29909857">Question on this course                                            <div style="display: none;" class="srpHoverCntnt"><p>Get answers from the students currently studying in this college</p></div>
+                                        </a>
+        </span>
+                 
+</div>
+    
+<!--ff-->
+        <p class="clr"></p>
+        <section class="tuple-bottom">
+    <ul class="tupl-options">
+        <li>
+            <a style="position: relative;">
+                                    <span style="display: none;left:0;top:22px;" class="srpHoverCntnt"><p>Compare colleges on ranking, placements, reviews, fees etc.</p></span>
+                                    <div class="nav-checkBx">
+                                  <input class="nav-inputChk" name="compare" id="compare46905-231298" tuplelistsource="categoryPage" type="checkbox">
+                    
+                    <label class="nav-heck compare-site-tour" product="Category" track="on" instid="46905" courseid="231298" id="compare46905-231298lableicon" comparetrackingpagekeykeyid="1039" tuplelistsource="categoryPage">
+                        <i class="icons ic_checkdisable1"></i>Add to Compare                    </label>                     
+                </div>
+            </a>
+        </li>
+	
+        
+              </ul>
+
+    <input name="tupleListSource" id="tupleListSource" value="categoryPage" type="hidden">
+    <input name="product" value="Category" id="product" type="hidden">
+
+                <a href="javascript:void(0);" cta-type="download_brochure" onclick="ajaxDownloadEBrochure(this,231298,&quot;course&quot;,&quot;B.Tech. in Civil Engineering&quot;,&quot;categoryPage&quot;,213)">
+                <span class="tup-compare deb-site-tour" instid="46905" product="Category" track="on" courseid="231298">Request Brochure                                            <span style="display: none;top:41px;" class="srpHoverCntnt"><p>Download details of eligibility, admissions, fees, infra etc.</p></span>
+                                    </span>
+            </a>
+            
+   <a href="javascript:void(0);" class="category_shortlist" onclick="addShortlistFromSearch(231298,215,'Category')" id="shrt231298" instid="46905" product="Category" track="on" courseid="231298">
+    <span class="tup-view-details shortlist-site-tour">
+     Shortlist              <span style="display: none;top:41px" class="srpHoverCntnt"><p>Save your shortlist, get updates, college recommendations etc.</p></span>
+             </span>
+    
+   </a>
+
+           <p class="success-msg" id="success-msg_231298" style="display:none;">Brochure successfully mailed</p>
+        	 <p class="clr"></p>
+</section>        <input id="morecoursesnum_231298" value="1" type="hidden">
+    </section>

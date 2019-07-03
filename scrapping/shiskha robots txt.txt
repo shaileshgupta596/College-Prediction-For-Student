@@ -1,0 +1,806 @@
+How to get robots.txt of a website?
+https://technicalseo.com/seo-tools/robots-txt/
+
+https://www.shiksha.com/robots.txt
+
+
+# Filename:robots.txt file for https://www.shiksha.com/
+User-agent:  Googlebot          # Googlebot
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+User-agent:  Googlebot-Image    # Googlebot
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/getUserProfile/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  Mediapartners-Google* # GoogleMedia Partners
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/getUserProfile/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  AdsBot-Google       # Google Adsbot
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/getUserProfile/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  Googlebot-Mobile       # Google Mobile robot
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/*showScholarshipsList
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/getUserProfile/
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  GurujiBot
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  ia_archiver  # Alexa
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/getUserProfile/
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  msnbot             # MSN search bot
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/getUserProfile/
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  Slurp              # Yahoo 
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  Teoma              # Ask Jeeves
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  Scooter            # Altavista
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  Robozilla          # Open directory project
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  baiduspider        # Baidu
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  lycos              # Lycos
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  gulliver           # Northern Light        
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  Arachnoidea        # Euroseek
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  Gulper             # Yuntis
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  Fluffy the spider  # Search Hippo
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/getUserProfile/
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  MantraAgent        # Look smart
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/listing/Listing/getDetailsForListingNaukriShiksha
+Disallow:/getUserProfile/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Disallow:/*showScholarshipsList
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent:  MSICrawler		#MS Internet Explorer for offline viewing
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:mysql_pulsechck/
+Disallow: /scholarship/
+Disallow:/0003003/
+Disallow:/0011006/
+Disallow:/0011007/
+Disallow:/0000003/
+Disallow:/0010004/
+Disallow:/getUserProfile/
+Disallow:/*campus-representatives-discussions
+Disallow:/getDataForAnAWidget/
+Disallow:/secCodeForReg
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:/similar-institutes*
+Disallow:*/getAbroadRecommendations/
+Disallow:/listing/ListingPage/onlineFormWidget*
+Disallow:/resources/colleges-shortlisting
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+
+User-agent: Echo!
+Disallow:/11110051/
+Disallow: *-snaplisting-*
+Disallow: /rate-my-chances-in-*-rmc-*
+Disallow: */getMediaForAbroadListing/
+Disallow:/beacon/
+Disallow:/analytics/
+Disallow:/AskAQuestion/
+Disallow:/public/conversion/
+Disallow:/MultipleApply/
+Disallow:/FloatingRegistration/
+Disallow:/stats/
+Disallow:/lms/
+Disallow:/mysql_pulsechck/
+Disallow: /scholarship/
+Allow: /mediadata/images/
+Disallow: /mediadata/
+Disallow:*/counselors/
+Disallow:/events/Events/
+Disallow:/MobileBeacon/mobilebeacon/
+Disallow:/mcommon5/MobileSiteHamburgerV2/ampAuthorization
+
+
+User-agent:  *			#Disallow all other spiders
+Disallow: /
+Disallow: /
+Disallow: /om.php
+Disallow: /j2.php
+
+Sitemap: https://www.shiksha.com/sitemap_index.xml

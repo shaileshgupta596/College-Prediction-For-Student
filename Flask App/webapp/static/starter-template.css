@@ -1,0 +1,10 @@
+body {
+  padding-top: 50px;
+  background-image: url("images.jpg");
+  background-size: cover;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: left;
+  text-decoration-color: #21ff21;
+}

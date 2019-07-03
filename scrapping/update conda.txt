@@ -1,0 +1,3 @@
+Please update conda by running
+
+    $ conda update -n base conda

@@ -1,0 +1,40 @@
+>>> for a in cls:
+...     a.get('class')
+...
+
+for a in cls:
+...     "<section class='%s'>%s</section>" %(a.get("class"), a.text)
+
+>>> for a in cls:
+...     if 'tpl-curse-dtls' in a.get("class"):
+...             "<section class='%s'>%s</section>" %(a.get("class"), a.text)
+...
+
+tp = soup.find_all("section",{"class":"tpl-curse-dtls"})
+for dt in tp:
+	print(dt.text)
+
+tp = soup.find_all("section",{"class":"tpl-curse-dtls"})
+for dt in tp:
+	print(dt.contents[0])
+
+
+tp = soup.find_all("section",{"class":"tpl-curse-dtls"})
+for dt in tp:
+	print(dt.contents[0].text)
+
+
+21/02/2018
+for dt in tp:
+...     print(dt.contents)
+
+
+>>> for dt in tp[0]:
+...     for i in dt:
+...             print(i,"\n NEW LINE LINE LINE \n")
+
+>>> for dt in tp[0]:
+...     for i in dt:
+...             print(str(i),"\n NEW LINE LINE LINE \n")
+...
+...

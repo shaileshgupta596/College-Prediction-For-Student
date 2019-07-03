@@ -1,0 +1,13 @@
+HOW TO GET A ATTRIBUTE VALUE?????
+https://stackoverflow.com/questions/2612548/extracting-an-attribute-value-with-beautifulsoup
+
+
+How to extract info from dynamic javascript based websites?????
+https://www.google.co.in/search?q=how+to+scrap+a+website+data+hidden+in+javascript&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=MW2dWqHhIIOwX8q0vJgP
+https://stackoverflow.com/questions/25132704/how-to-scrape-some-contents-on-a-website-which-was-hidden-using-js-in-python
+http://briancaffey.github.io/2016/05/09/web-srcaping-with-phantomjs.html
+https://stackoverflow.com/questions/15918402/information-not-visible-in-source-file-view
+
+
+How to get robots.txt of a website?
+https://technicalseo.com/seo-tools/robots-txt/
